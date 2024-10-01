@@ -9,10 +9,10 @@ title: Francesco Alesiani
 first_name: Francesco
 last_name: Alesiani
 
-# Status emoji
-status:
-  icon: ☯️
-  # icon: ☕️ ![alt text](image.png)
+# # Status emoji
+# status:
+#   icon: ☯️
+#   # icon: ☕️ ![alt text](image.png)
 
 
 # Is this the primary user of the site?
