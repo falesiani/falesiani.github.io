@@ -11,7 +11,9 @@ last_name: Alesiani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☯️
+  # icon: ☕️ ![alt text](image.png)
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +22,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Research
+role: Senior Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -52,16 +54,16 @@ interests:
   - Optimization
   - Control
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+# education:
+#   - area: PhD Artificial Intelligence
+#     institution: Stanford University
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+#     button:
+#       text: 'Read Thesis'
+#       url: 'https://example.com'
   # - area: MEng Artificial Intelligence
   #   institution: Massachusetts Institute of Technology
   #   date_start: 2016-01-01
