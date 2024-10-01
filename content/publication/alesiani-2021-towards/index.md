@@ -11,4 +11,6 @@ publication_types:
 - paper-conference
 publication: '*Machine Learning and Knowledge Discovery in Databases: European Conference,
   ECML PKDD 2020, Ghent, Belgium, September 14--18, 2020, Proceedings, Part II*'
+# Display this page in the Featured widget?
+featured: true  
 ---

@@ -9,4 +9,6 @@ publishDate: '2019-01-01T11:44:47.451054Z'
 publication_types:
 - article-journal
 publication: '*Transportation Research Part E: Logistics and Transportation Review*'
+# Display this page in the Featured widget?
+featured: true
 ---

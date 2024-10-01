@@ -10,4 +10,6 @@ publishDate: '2021-10-01T11:44:47.761962Z'
 publication_types:
 - paper-conference
 publication: '*IJCAI*'
+# Display this page in the Featured widget?
+featured: true
 ---
