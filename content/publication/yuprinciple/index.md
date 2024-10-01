@@ -6,7 +6,7 @@ authors:
 - Wenzhe Yin
 - Robert Jenssen
 - Jose C Principe
-date: -01-01
+date: 2022-01-01
 publishDate: '2024-10-01T11:44:47.834129Z'
 publication_types:
 - article-journal
