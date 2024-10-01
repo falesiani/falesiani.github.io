@@ -47,6 +47,8 @@ profiles:
     url: https://scholar.google.com/citations?user=0puEQdgAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4413-7247 
+  - icon: NEC_logo
+    url: https://neclab.eu/research-areas-1/system-platform-for-iot-and-ai/intelligent-software-system/our-researchers/people-detail/dr-francesco-alesiani
 
 interests:
   - Machine Learning
