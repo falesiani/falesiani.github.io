@@ -188,6 +188,6 @@ languages:
 
 ## About Me
 
-Francesco is a Senior Researcher at NEC Labs Europe. His research interests include Machine Learning, Optimization, Geometry. 
-He works at the intersection of Physics and Machine Learning, in particular modelling biomolecular systems.
-Part of the Machine Learning for Computational Science team.
+I am a Senior Researcher at NEC Labs Europe. My research interests include Machine Learning, Optimization, Geometry. 
+I am working at the intersection of Physics and Machine Learning, in particular modelling biomolecular systems.
+I am part of the Machine Learning for Computational Science team at the Interlligent Software System Group.
