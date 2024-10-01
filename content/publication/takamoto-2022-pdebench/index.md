@@ -13,4 +13,6 @@ publishDate: '2022-10-01T11:44:47.822060Z'
 publication_types:
 - article-journal
 publication: '*Advances in Neural Information Processing Systems*'
+# Display this page in the Featured widget?
+featured: true
 ---

@@ -15,4 +15,6 @@ publishDate: '2024-01-01T11:44:47.949121Z'
 publication_types:
 - article-journal
 publication: '*npj Computational Materials*'
+# Display this page in the Featured widget?
+featured: true
 ---

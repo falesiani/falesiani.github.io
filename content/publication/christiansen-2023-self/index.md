@@ -9,4 +9,6 @@ publishDate: '2023-01-01T11:44:47.929060Z'
 publication_types:
 - article-journal
 publication: '*The Journal of Chemical Physics*'
+# Display this page in the Featured widget?
+featured: true
 ---
