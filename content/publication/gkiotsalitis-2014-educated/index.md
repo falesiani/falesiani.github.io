@@ -6,7 +6,7 @@ authors:
 - Francesco Alesiani
 - Roberto Baldessari
 date: '2014-01-01'
-publishDate: '2024-10-01T11:44:47.636830Z'
+publishDate: '2014-01-01T11:44:47.636830Z'
 publication_types:
 - paper-conference
 publication: '*Transportation Research Board 93rd Annual Meeting*'

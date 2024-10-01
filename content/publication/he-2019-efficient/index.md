@@ -5,7 +5,7 @@ authors:
 - Francesco Alesiani
 - Ammar Shaker
 date: '2019-01-01'
-publishDate: '2024-10-01T11:44:47.422044Z'
+publishDate: '2019-01-01T11:44:47.422044Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'

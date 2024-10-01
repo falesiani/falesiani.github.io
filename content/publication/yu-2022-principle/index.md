@@ -7,7 +7,7 @@ authors:
 - Robert Jenssen
 - Jose C Principe
 date: '2022-01-01'
-publishDate: '2024-10-01T11:44:47.815960Z'
+publishDate: '2022-10-01T11:44:47.815960Z'
 publication_types:
 - paper-conference
 publication: '*Uncertainty in Artificial Intelligence*'

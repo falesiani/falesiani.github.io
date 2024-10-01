@@ -7,7 +7,7 @@ authors:
 - Andreas Festag
 - Roberto Baldessari
 date: '2012-01-01'
-publishDate: '2024-10-01T11:44:47.695852Z'
+publishDate: '2012-10-01T11:44:47.695852Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of 19th ITS world congress*'

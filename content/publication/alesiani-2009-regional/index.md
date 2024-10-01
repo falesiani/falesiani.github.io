@@ -5,7 +5,7 @@ authors:
 - Francesco Alesiani
 - Francesco Paolo Deflorio
 date: '2009-01-01'
-publishDate: '2024-10-01T11:44:47.560573Z'
+publishDate: '2009-10-01T11:44:47.560573Z'
 publication_types:
 - paper-conference
 publication: '*16th ITS World Congress and Exhibition on Intelligent Transport Systems

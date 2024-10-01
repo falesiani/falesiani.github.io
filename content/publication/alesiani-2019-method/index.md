@@ -4,7 +4,7 @@ authors:
 - Francesco Alesiani
 - Konstantinos Gkiotsalitis
 date: '2019-12-01'
-publishDate: '2024-10-01T11:44:47.601573Z'
+publishDate: '2019-10-01T11:44:47.601573Z'
 publication_types:
 - manuscript
 publication: '*Google Patents*'

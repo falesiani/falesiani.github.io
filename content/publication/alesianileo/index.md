@@ -5,8 +5,8 @@ authors:
 - Makoto Takamoto
 - Toshio Kamiya
 - Daisuke Etou
-date: -01-01
-publishDate: '2024-10-01T11:44:47.967127Z'
+date: 2023-09-01
+publishDate: '2023-10-01T11:44:47.967127Z'
 publication_types:
 - article-journal
 ---

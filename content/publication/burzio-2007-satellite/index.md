@@ -13,7 +13,7 @@ authors:
 - B Trincone
 - ' others'
 date: '2007-01-01'
-publishDate: '2024-10-01T11:44:47.916744Z'
+publishDate: '2007-01-01T11:44:47.916744Z'
 publication_types:
 - chapter
 publication: '*Titolo volume non avvalorato*'

@@ -5,8 +5,8 @@ title: SubProject No. SP2 SubProject Title Core Technology Integration Workpacka
 authors:
 - F Alesiani
 - N Zahariev
-date: -01-01
-publishDate: '2024-10-01T11:44:47.526322Z'
+date: 2011-01-01
+publishDate: '2011-10-01T11:44:47.526322Z'
 publication_types:
 - article-journal
 ---
