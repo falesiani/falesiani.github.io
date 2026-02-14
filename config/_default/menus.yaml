@@ -19,6 +19,9 @@ main:
   - name: Blog
     url: /#posts
     weight: 14
+  - name: Notes
+    url: /notes/
+    weight: 15    
   # - name: Experience
   #   url: experience/
   #   weight: 20

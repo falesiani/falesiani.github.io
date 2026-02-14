@@ -49,6 +49,11 @@ sections:
     design:
       view: article-grid
       columns: 2
+      background:
+        image:
+          filename: "https://images.unsplash.com/photo-1586281380349-632531db7ed4?w=1920&q=90"
+          size: cover
+          position: center
   - block: collection
     content:
       title: Recent Publications
@@ -114,6 +119,11 @@ sections:
       columns: 2
       spacing:
         padding: [0, 0, 0, 0]
+      background:
+        image:
+          filename: "https://images.unsplash.com/photo-1499750310107-5ebef8467b29?w=1920&q=90"
+          size: cover
+          position: center
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
