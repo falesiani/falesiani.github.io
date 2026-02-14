@@ -79,10 +79,10 @@ sections:
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria (folders = section name; posts live in _post)
+      # Filter on criteria (folders = section name; posts live in post)
       filters:
         folders:
-          - _post
+          - post
         author: ""
         category: ""
         tag: ""
