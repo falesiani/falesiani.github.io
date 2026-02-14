@@ -4,14 +4,18 @@ Based on [Hugo Academic](https://github.com/HugoBlox/theme-academic-cv).
 
 ## Local development
 
-Use **Hugo 0.126.3** to match Netlify and avoid theme compatibility issues:
+The project uses **Hugo Extended 0.155.3** (see `.hugo-version` and `netlify.toml`). Theme is compatible with Hugo 0.150+.
 
 ```bash
-# If using Homebrew
-brew install hugo@0.126
-hugo server  # use the 0.126 binary, or: /opt/homebrew/opt/hugo@0.126/bin/hugo server
+# Install Hugo (Extended) 0.155+ e.g. via Homebrew
+brew install hugo
 
-# Or install exact version: https://github.com/gohugoio/hugo/releases/tag/v0.126.3
+# Install theme deps (Tailwind CSS) and fetch Hugo modules
+npm ci
+hugo mod get -u
+
+# Run the site
+hugo server
 ```
 
-Then run `hugo server` (or `hugo server -D` to include future-dated content).
+Use `hugo server -D` to include future-dated content (e.g. 2026 publications). Netlify runs `npm ci` before `hugo` automatically.

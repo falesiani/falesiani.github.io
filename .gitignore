@@ -4,6 +4,9 @@ resources/
 .hugo_build.lock
 hugo_stats.json
 
+# Node (Tailwind CSS for theme build)
+node_modules/
+
 # Optional: uncomment to ignore Go module checksum (Netlify uses its own)
 # go.sum
 
