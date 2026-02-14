@@ -1,0 +1,14 @@
+# Hugo build output and cache
+public/
+resources/
+.hugo_build.lock
+hugo_stats.json
+
+# Optional: uncomment to ignore Go module checksum (Netlify uses its own)
+# go.sum
+
+# OS and editor
+.DS_Store
+*.swp
+*.swo
+Thumbs.db

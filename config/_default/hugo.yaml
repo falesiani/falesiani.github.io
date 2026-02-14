@@ -25,7 +25,8 @@ build:
   writeStats: true
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -47,6 +48,10 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
+  goldmark:
+    renderHooks:
+      link:
+        useEmbedded: fallback
   highlight:
     lineNos: false
 security:
