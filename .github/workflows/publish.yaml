@@ -1,7 +1,7 @@
 name: Deploy website to GitHub Pages
 
 env:
-  WC_HUGO_VERSION: '0.126.3'
+  HUGO_VERSION: '0.155.3'
 
 on:
   # Trigger the workflow every time you push to the `main` branch
@@ -31,12 +31,17 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        cache: 'npm'
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
-        hugo-version: ${{ env.WC_HUGO_VERSION }}
+        hugo-version: ${{ env.HUGO_VERSION }}
         extended: true
-    - uses: actions/cache@v3
+    - uses: actions/cache@v4
       with:
         path: /tmp/hugo_cache_runner/
         key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.mod') }}
@@ -45,12 +50,14 @@ jobs:
     - name: Setup Pages
       id: pages
       uses: actions/configure-pages@v3
+    - name: Install dependencies
+      run: npm ci
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
       run: |
         echo "Hugo Cache Dir: $(hugo config | grep cachedir)"
-        hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+        hugo --gc --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
