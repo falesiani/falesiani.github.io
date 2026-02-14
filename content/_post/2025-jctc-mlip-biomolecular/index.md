@@ -1,6 +1,6 @@
 ---
 title: Paper accepted in Journal of Chemical Theory and Computation (JCTC)
-summary: "Performance of Universal Machine-Learned Potentials with Explicit Long-Range Interactions in Biomolecular Simulations" accepted for publication in JCTC (ACS). Viktor Zaverkin, Matheus Ferraz, Francesco Alesiani, Mathias Niepert.
+summary: Performance of Universal Machine-Learned Potentials with Explicit Long-Range Interactions in Biomolecular Simulations accepted for publication in JCTC (ACS). Viktor Zaverkin, Matheus Ferraz, Francesco Alesiani, Mathias Niepert.
 date: 2025-12-01
 authors:
   - admin
