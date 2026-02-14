@@ -75,11 +75,8 @@ sections:
       title: Recent News
       subtitle: ''
       text: ''
-      # Page type to display. E.g. post, talk, publication...
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria (folders = section name; posts live in post)
       filters:
         folders:
           - post
@@ -90,14 +87,31 @@ sections:
         exclude_future: false
         exclude_past: false
         publication_type: ""
-      # Choose how many pages you would like to offset by
       offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
       view: date-title-summary
-      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: collection
+    id: posts
+    content:
+      title: Posts
+      subtitle: ''
+      text: All news and updates.
+      page_type: post
+      count: 0
+      filters:
+        folders:
+          - post
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+      offset: 0
+      order: desc
+    design:
+      view: article-grid
+      columns: 2
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
