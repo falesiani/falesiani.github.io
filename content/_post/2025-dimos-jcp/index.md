@@ -1,6 +1,6 @@
 ---
 title: Paper on DIMOS (PyTorch molecular dynamics framework) accepted in J. Chem. Phys.
-summary: "Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations" accepted for publication in the Journal of Chemical Physics. PyTorch-based framework for ML-enhanced MD/MC; code available at github.com/nec-research/DIMOS.
+summary: Fast, Modular, and Differentiable Framework for Machine Learning-Enhanced Molecular Simulations accepted in J. Chem. Phys. PyTorch-based framework for ML-enhanced MD/MC; code at github.com/nec-research/DIMOS.
 date: 2025-11-15
 authors:
   - admin
