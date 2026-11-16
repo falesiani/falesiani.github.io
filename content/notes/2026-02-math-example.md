@@ -2,6 +2,7 @@
 title: Math example page
 date: 2025-02-15
 math: true
+draft: true
 # Card thumbnail on Notes summary page: only LOCAL files work (assets/media/ or page folder)
 # Use a file in assets/media/ and set filename to its name, e.g. filename: "my-note.jpg"
 image:
