@@ -10,4 +10,5 @@ publishDate: '2025-01-01T12:00:00.000000Z'
 publication_types:
 - paper-conference
 publication: '*22nd International Workshop on Mining and Learning with Graphs (MLG@ECMLPKDD)*'
+featured: true
 ---

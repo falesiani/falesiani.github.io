@@ -11,4 +11,5 @@ publishDate: '2025-01-01T12:00:00.000000Z'
 publication_types:
 - article-journal
 publication: '*Journal of Chemical Theory and Computation*'
+featured: true
 ---
