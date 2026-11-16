@@ -1,6 +1,6 @@
 ---
-title: New 2026 preprints: Clifford KAN and Logical Guidance for Diffusion Composition
-summary: Two new preprints are online: Clifford Kolmogorov-Arnold Networks and Logical Guidance for the Exact Composition of Diffusion Models.
+title: "New 2026 preprints: Clifford KAN and Logical Guidance for Diffusion Composition"
+summary: "Two new preprints are online: Clifford Kolmogorov-Arnold Networks and Logical Guidance for the Exact Composition of Diffusion Models."
 date: 2026-02-12
 authors:
   - admin
